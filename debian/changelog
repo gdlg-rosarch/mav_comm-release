@@ -1,0 +1,9 @@
+ros-indigo-mav-msgs (2.0.3-0trusty) trusty; urgency=high
+
+  * added install target for include
+    Headers can be included outside of this package.
+  * Contributors: Fadri Furrer
+
+ -- Fadri Furrer <fadri.furrer@mavt.ethz.ch>  Thu, 21 May 2015 22:00:00 -0000
+
+
