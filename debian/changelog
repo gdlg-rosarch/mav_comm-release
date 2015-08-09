@@ -1,0 +1,20 @@
+ros-indigo-mav-msgs (3.0.0-0trusty) trusty; urgency=high
+
+  * Dropped "Command" from the names of all messages.
+  * Converted CommandPositionYawTrajectory message to MultiDOFJointTrajectory (with an additional option to use a geometry_msgs/PoseStamped instead) as the two ways to send trajectory/waypoint commands.
+  * Added conversions between the Eigen and ROS message types.
+  * Switched to using full orientation instead of just yaw where appropriate.
+  * Documented reference frame in the Eigen messages where possible.
+  * Contributors: Helen Oleynikova, Markus Achtelik
+
+ -- Fadri Furrer <fadri.furrer@mavt.ethz.ch>  Sat, 08 Aug 2015 22:00:00 -0000
+
+ros-indigo-mav-msgs (2.0.3-0trusty) trusty; urgency=high
+
+  * added install target for include
+    Headers can be included outside of this package.
+  * Contributors: Fadri Furrer
+
+ -- Fadri Furrer <fadri.furrer@mavt.ethz.ch>  Thu, 21 May 2015 22:00:00 -0000
+
+
