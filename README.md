@@ -1,3 +1,26 @@
+## mav_comm (jade) - 3.0.0-0
+
+The packages in the `mav_comm` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release --rosdistro jade --track jade mav_comm --edit` on `Thu, 13 Aug 2015 07:28:40 -0000`
+
+These packages were released:
+- `mav_comm`
+- `mav_msgs`
+
+Version of package(s) in repository `mav_comm`:
+- upstream repository: https://github.com/ethz-asl/mav_comm.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.0.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## mav_comm (indigo) - 3.0.0-0
 
 The packages in the `mav_comm` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release mav_comm --track indigo --rosdistro indigo` on `Sun, 09 Aug 2015 14:28:45 -0000`
