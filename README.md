@@ -1,3 +1,28 @@
+## mav_comm (indigo) - 3.2.0-1
+
+The packages in the `mav_comm` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release --rosdistro indigo --track indigo mav_comm` on `Fri, 07 Apr 2017 20:19:50 -0000`
+
+These packages were released:
+- `mav_comm`
+- `mav_msgs`
+
+Version of package(s) in repository `mav_comm`:
+
+- upstream repository: https://github.com/ethz-asl/mav_comm.git
+- release repository: https://github.com/ethz-asl/mav_comm-release.git
+- rosdistro version: `3.0.0-0`
+- old version: `3.2.0-0`
+- new version: `3.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## mav_comm (indigo) - 3.2.0-0
 
 The packages in the `mav_comm` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release --rosdistro indigo --track indigo mav_comm` on `Fri, 07 Apr 2017 20:09:05 -0000`
