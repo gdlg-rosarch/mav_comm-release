@@ -46,4 +46,4 @@ tracks:
     ros_distro: jade
     vcs_type: git
     vcs_uri: https://github.com/ethz-asl/mav_comm.git
-    version: :{auto}
+    version: 3.2.0
